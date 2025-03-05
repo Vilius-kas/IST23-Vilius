@@ -13,7 +13,7 @@ $mv3=0;
 $mv4=0;
 
 // maziausiai iteraciju
-$mv5=99999999;
+$mv5=888888;
 $mv6=0;
 
 for($i=$start; $i<=$end; $i++) {
