@@ -13,5 +13,5 @@ while($n != 1) {
 	$b++;
 	print ("skaicius:".$n."<br>");
 }
-print ("iteraciju skaicius:".$b);
+print ("iteraci skaicius:".$b);
 ?>
